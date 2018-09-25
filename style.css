@@ -1,3 +1,11 @@
 .title {
   color: red;
 }
+
+.subtutle {
+  color: rebeccapurple
+}
+
+p {
+  margin: 2rem 0;
+}
